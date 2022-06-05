@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BlazorChat",
+    "\\BlazorChat\\Client",
+    "\\BlazorChat\\Server"
+  ],
+  "SelectedNode": "\\BlazorChat\\Server\\Startup.cs",
+  "PreviewInSolutionExplorer": false
+}
